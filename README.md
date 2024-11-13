@@ -1,6 +1,6 @@
 # Hi there, I'm wafardev! 👋
 
-Welcome to my corner of GitHub, where I spend my time turning caffeine into code ☕ and occasionally sleeping in front of it 💤💻.
+Welcome to my corner of GitHub, where I spend my time turning code into money 💻💸.
 
 ## 🚀 About Me
 - Independent EVM Security Researcher 🛡️🔍
@@ -8,13 +8,13 @@ Welcome to my corner of GitHub, where I spend my time turning caffeine into code
 - Fluent in JavaScript, Python, and the language of **"I'll just Google it."**  
 - Currently debugging my way through life one print statement at a time!
 
-## 🔧 Technologies I Love
+## 🔧 Technologies I Use
 - **Languages**: JavaScript, Python, C, C++, Solidity
 - **Frameworks**: Node.js, Express, Foundry, Hardhat
 - **Tools**: Git, GitHub, VS Code, Postman, Haystack Editor
 - **Databases**: MongoDB, PostgreSQL, MySQL
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (pretty cooked)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wafardev&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
