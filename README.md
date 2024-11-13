@@ -1,6 +1,6 @@
 # Hi there, I'm wafardev! 👋
 
-Welcome to my corner of GitHub, where I spend my time turning code into money 💻💸.
+Welcome to my corner of GitHub, where I spend my time turning code into money 💻💸
 
 ## 🚀 About Me
 - Independent EVM Security Researcher 🛡️🔍
