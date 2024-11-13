@@ -19,7 +19,7 @@ Welcome to my corner of GitHub, where I spend my time turning code into money �
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wafardev&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 💬 Let's Connect!
-- 🐦 Follow me on Twitter: [@wafar.eth](https://twitter.com/wafar_degen)
+- 🐦 Follow me on Twitter: [@wafardev](https://twitter.com/wafardev)
 
 > "My code doesn't always work, but when it does, I have no idea why." – Me, probably.
 
