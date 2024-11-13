@@ -16,7 +16,7 @@ Welcome to my corner of GitHub, where I spend my time turning caffeine into code
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xWafar&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wafardev&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 💬 Let's Connect!
 - 🐦 Follow me on Twitter: [@wafar_degen](https://twitter.com/wafar_degen)
