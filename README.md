@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi there, I'm wafardev! 👋
+
+Welcome to my corner of GitHub, where I spend my time turning caffeine into code ☕ and occasionally sleeping in front of it 💤💻.
+
+## 🚀 About Me
+- Independent EVM Security Researcher 🛡️🔍
+- Code enthusiast with a passion for breaking things (and fixing them, eventually)
+- Fluent in JavaScript, Python, and the language of **"I'll just Google it."**  
+- Currently debugging my way through life one print statement at a time!
+
+## 🔧 Technologies I Love
+- **Languages**: JavaScript, Python, C, C++, Solidity
+- **Frameworks**: Node.js, Express, Foundry, Hardhat
+- **Tools**: Git, GitHub, VS Code, Postman, Haystack Editor
+- **Databases**: MongoDB, PostgreSQL, MySQL
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xWafar&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 💬 Let's Connect!
+- 🐦 Follow me on Twitter: [@wafar_degen](https://twitter.com/wafar_degen)
+
+> "My code doesn't always work, but when it does, I have no idea why." – Me, probably.
+
+Thanks for visiting! Feel free to check out my repos or leave a star if you like what you see! ⭐
+
 
 <!--
 **wafardev/wafardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
